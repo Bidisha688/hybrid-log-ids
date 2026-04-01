@@ -144,14 +144,7 @@ This project can be deployed on:
 * Scikit-learn
 * NumPy / SciPy
 
----
 
-## 👨‍💻 Author
-
-**Arpon Roy**
-M.Tech CSE, IIT Bhubaneswar
-
----
 
 ## ⭐ Notes
 
